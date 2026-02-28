@@ -1,27 +1,56 @@
-# 💫 About Me <br><br>
-🔭 I’m currently working on<br>MERN stack projects, mini web apps, and improving my full-stack development skills.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly open-source projects, web applications, and MERN stack based ideas.<br><br>🤝 I’m looking for help with<br>Advanced React concepts, backend optimization, and real-world project architecture.<br><br>🌱 I’m currently learning<br>MERN Stack (MongoDB, Express, React, Node.js), REST APIs, Git/GitHub, and deployment.<br><br>💬 Ask me about<br>HTML, CSS, JavaScript, React basics, Node.js, Flask, Python projects, and GitHub setup.<br><br>⚡ Fun fact<br>I love turning small ideas into working projects and learning something new every day 🚀
+<h1 align="center">Hi 👋, I'm Simarjeet Kaur</h1>
+<h3 align="center">🚀 MERN Stack Developer | BTech CSE Student | Aspiring SWE</h3>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__.simer) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/simarjeet-kaur-734b3729b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Simarjeet Kaur) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kaursimerjeet07@gmail.com) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Simarjeet-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Simarjeet-tech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Simarjeet-tech&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Simarjeet-tech&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Simarjeet-tech&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Always+Building+🚀" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Simarjeet-tech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👩‍💻 About Me
+- 🎓 Pursuing **BTech in Computer Science**
+- 💻 Focused on **MERN Stack Development**
+- 🌱 Currently improving **DSA & System Design**
+- 🚀 Goal: Software Engineer in Product-Based Company
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+HTML | CSS | JavaScript | React.js  
+
+### ⚙ Backend
+Node.js | Express.js  
+
+### 🗄 Database
+MongoDB  
+
+### 🔧 Tools
+Git | GitHub | VS Code | Postman  
+
+---
+
+## 📌 Featured Projects
+- 🌐 **Language Translator Web App** (NLP Model – Helsinki-NLP)
+- 🌱 **Plant Disease Detection** (Transfer Learning – ResNet)
+- 🛒 MERN Stack Mini Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Simar-dev502&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simar-dev502&theme=tokyonight" height="160"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+- 💼 LinkedIn: (Add your LinkedIn link here)
+- 📧 Email: (Add your email here)
+
+---
+
+⭐ “Code. Learn. Build. Repeat.”
