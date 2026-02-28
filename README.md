@@ -1,56 +1,67 @@
-<h1 align="center">Hi 👋, I'm Simarjeet Kaur</h1>
-<h3 align="center">🚀 MERN Stack Developer | BTech CSE Student | Aspiring SWE</h3>
+<h1 align="center">Simarjeet Kaur</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00C2FF&center=true&vCenter=true&lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Open+Source+Learner;Always+Building+🚀" />
+  <b>Building Scalable Web Products 🚀</b><br>
+  MERN Stack Developer | BTech CSE | Aspiring SWE
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8B5CF6&center=true&vCenter=true&lines=MERN+Stack+Developer;Startup+Focused+Engineer;Turning+Ideas+Into+Products;Learning.+Building.+Scaling." />
 </p>
 
 ---
 
-## 👩‍💻 About Me
-- 🎓 Pursuing **BTech in Computer Science**
-- 💻 Focused on **MERN Stack Development**
-- 🌱 Currently improving **DSA & System Design**
-- 🚀 Goal: Software Engineer in Product-Based Company
+## ⚡ About Me
+
+- 🎓 BTech in Computer Science  
+- 💻 Focused on Full Stack (MERN) Development  
+- 🧠 Improving DSA & System Design  
+- 🚀 Passionate about building real-world web applications  
+- 🌱 Currently learning scalable backend architecture  
 
 ---
 
 ## 🛠 Tech Stack
 
-### 💻 Frontend
-HTML | CSS | JavaScript | React.js  
+<p align="center">
 
-### ⚙ Backend
-Node.js | Express.js  
+<img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=E34F26"/>
+<img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=1572B6"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=339933"/>
+<img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 
-### 🗄 Database
-MongoDB  
-
-### 🔧 Tools
-Git | GitHub | VS Code | Postman  
+</p>
 
 ---
 
-## 📌 Featured Projects
-- 🌐 **Language Translator Web App** (NLP Model – Helsinki-NLP)
-- 🌱 **Plant Disease Detection** (Transfer Learning – ResNet)
-- 🛒 MERN Stack Mini Applications
+## 🚀 Featured Projects
+
+- 🌐 Language Translator Web App (NLP – Helsinki Model)  
+- 🌱 Plant Disease Detection (Transfer Learning – ResNet)  
+- 🛒 Full Stack MERN Applications 
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Simar-dev502&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simar-dev502&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Simar-dev502&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Simar-dev502&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
-- 💼 LinkedIn: (Add your LinkedIn link here)
-- 📧 Email: (Add your email here)
+## 🌍 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/simarjeet-kaur-734b3729b/
+- 📧 Email: kaursimerjeet07@gmail.com
 
 ---
 
-⭐ “Code. Learn. Build. Repeat.”
+<p align="center">
+  <i>Ship Fast. Learn Faster. Build What Matters.</i>
+</p>
